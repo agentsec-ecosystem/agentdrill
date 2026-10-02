@@ -2,6 +2,8 @@
 
 > **Alert / verify** — Runs reproducible attack packs in CI against your deployed agent policies.
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentsec-ecosystem/agentdrill/badge)](https://scorecard.dev/viewer/?uri=github.com/agentsec-ecosystem/agentdrill)
+
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
 
